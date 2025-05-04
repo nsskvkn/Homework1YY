@@ -1,4 +1,6 @@
-﻿using System;
+// Варіант 1 Явон Ярослав 123
+
+using System;
 
 namespace Homework
 {
