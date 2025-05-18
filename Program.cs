@@ -6,7 +6,7 @@ class Program
     {
         try
         {
-            var arr = new SimpleArray(5);
+            var arr = new SafeArray(5);
             Console.WriteLine("Довжина = " + arr.Length);
 
             arr[2] = 10;
